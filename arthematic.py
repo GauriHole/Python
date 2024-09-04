@@ -1,0 +1,8 @@
+print(" Hello Welcome To Arthematic Calculation ")
+print(5+5)
+print(99-11)
+print(4*4)
+print(10%3)
+print(100/25)
+print(4**4)
+print(88%4.4)
